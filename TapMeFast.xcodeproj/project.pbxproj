@@ -13,6 +13,7 @@
 		DE665D4A205A27F7005B5A6C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE665D49205A27F7005B5A6C /* Assets.xcassets */; };
 		DE665D4D205A27F7005B5A6C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE665D4B205A27F7005B5A6C /* LaunchScreen.storyboard */; };
 		DE665D50205A27F7005B5A6C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DE665D4F205A27F7005B5A6C /* main.m */; };
+		DE665D57205A28B9005B5A6C /* PORKYS_.TTF in Resources */ = {isa = PBXBuildFile; fileRef = DE665D56205A28B9005B5A6C /* PORKYS_.TTF */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		DE665D4C205A27F7005B5A6C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DE665D4E205A27F7005B5A6C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DE665D4F205A27F7005B5A6C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		DE665D56205A28B9005B5A6C /* PORKYS_.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; path = PORKYS_.TTF; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				DE665D4B205A27F7005B5A6C /* LaunchScreen.storyboard */,
 				DE665D4E205A27F7005B5A6C /* Info.plist */,
 				DE665D4F205A27F7005B5A6C /* main.m */,
+				DE665D56205A28B9005B5A6C /* PORKYS_.TTF */,
 			);
 			path = TapMeFast;
 			sourceTree = "<group>";
@@ -131,6 +134,7 @@
 			files = (
 				DE665D4D205A27F7005B5A6C /* LaunchScreen.storyboard in Resources */,
 				DE665D4A205A27F7005B5A6C /* Assets.xcassets in Resources */,
+				DE665D57205A28B9005B5A6C /* PORKYS_.TTF in Resources */,
 				DE665D48205A27F7005B5A6C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
